@@ -1,0 +1,8 @@
+set dstfld=E:\\makena0223
+git config --global http.'https://chipmaster2.qti.qualcomm.com'.followRedirects "true"
+git config --global core.autocrlf true
+git config --global http.postBuffer 524288000
+git clone -b r07400.2 --depth 1 https://chipmaster2.qti.qualcomm.com/home2/git/hefei-boe-vision-electronic-technology-co-ltd/makena-wp-1-0_amss_standard_oem.git E:\\makena0223
+
+::E:\\makena0222 is a new folder.
+::use git init to create a repo
