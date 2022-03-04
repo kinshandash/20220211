@@ -1,4 +1,10 @@
+https://www.bilibili.com/video/BV1i34y1i75m?p=11&spm_id_from=pageDriver
+
 https://blog.csdn.net/u011535541/article/details/83379151?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164454892516780265443771%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164454892516780265443771&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-83379151.pc_search_insert_es_download&utm_term=git%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187
+
+
+git config --global user.name "kinshandash"
+git config --global user.email "znationz@163.com"
 git init
 git add readme.txt
 git commit -m "new create readme.txt"
